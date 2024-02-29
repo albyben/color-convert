@@ -1,5 +1,7 @@
 # color-convert
 
+> 对项目文件重新编译发布，以使其支持ie11
+
 Color-convert is a color conversion library for JavaScript and node.
 It converts all ways between `rgb`, `hsl`, `hsv`, `hwb`, `cmyk`, `ansi`, `ansi16`, `hex` strings, and CSS `keyword`s (will round to closest):
 
