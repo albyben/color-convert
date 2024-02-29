@@ -1,7 +1,7 @@
 {
   "name": "color-convert-ie",
   "description": "Plain color conversion functions",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "Josh Junon <josh@junon.me>",
   "contributors": [
     "Heather Arthur <fayearthur@gmail.com>"
@@ -34,9 +34,7 @@
     "ansi16"
   ],
   "files": [
-    "index.js",
-    "conversions.js",
-    "route.js"
+    "lib"
   ],
   "xo": {
     "rules": {
